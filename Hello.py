@@ -9,6 +9,7 @@ show_pages(
         Page("pages/02_Ritprofielen_Maximaal.py", "Ritprofieel Maximaal"),
         Page("pages/03_Voertuig_opties.py", "Voertuig en laadstrategie"),
         Page("pages/04_Laadprofiel.py", "Laadprofiel"),
+        Page("pages/04_Netaansluiting.py", "Netaansluiting"),
 
        
     ]
