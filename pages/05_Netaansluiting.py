@@ -23,7 +23,7 @@ Congestie = congestiedatabase[congestiedatabase["postcode"] == Postcode]
 
 st.write("Op basis van uw ritprofiel en het verwachte aantal trucks moet u uw netaansluiting uitbreiden naar minimaal: <175MVA") 
 
-if (Postcode == "") or (Postcode == Na) :
+if (Postcode == "") or (Congestie.isna()) :
     st.write("U heeft nog geen postcode ingevoerd of de postcode is onbekend") 
 else:
      if Congestie.iloc[0, 2] == 0:
