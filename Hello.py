@@ -14,6 +14,8 @@ show_pages(
         Page("Pages/03_Voertuig_opties.py", "Voertuigkeuze"),
         Page("Pages/04_Laadprofiel.py", "Laadprofiel"),
         Page("Pages/05_Netaansluiting.py", "Netaansluiting"),
+        Page("Pages/06_Mitigatie.py", "Netmitagatie maatregelen"),
+        Page("Pages/07_Financieel.py", "Financieel overzicht"),
 
        
     ]
