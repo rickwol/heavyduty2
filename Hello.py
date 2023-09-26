@@ -10,9 +10,9 @@ show_pages(
         Page("Hello.py", "Home", "🏠"),
         # Can use :<icon-name>: or the actual icon
         Page("Pages/01_Ritprofielen_Gemiddeld.py", "Ritprofieel Gemiddeld"),
-        Page("Pages/02_Ritprofielen_Maximaal.py", "Ritprofieel Gemiddeld"),
-        Page("Pages/03_Voertuig_opties.py", "Ritprofieel Gemiddeld"),
-        Page("Pages/04_Laadprofiel.py", "Ritprofieel Gemiddeld"),
+        Page("Pages/02_Ritprofielen_Maximaal.py", "Ritprofieel Maximaal"),
+        Page("Pages/03_Voertuig_opties.py", "Voertuigkeuze"),
+        Page("Pages/04_Laadprofiel.py", "Laadprofiel"),
         Page("Pages/05_Netaansluiting.py", "Netaansluiting"),
 
        
